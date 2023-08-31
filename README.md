@@ -1,3 +1,9 @@
+This is a chrome extension that shows user's country and city.
+The user's IP address is fetched from https://www.ipify.org/. The fetched IP is passed to an API from https://ipinfo.io/ to get the country and city.
+
+A short demonstration of the project is attached :
+https://github.com/Bijoya-Mondal/location-finder/assets/66239075/2fe4dec8-60d2-4e6c-8f82-e4fb3a571b0c
+
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
 ## Getting Started
